@@ -15,8 +15,8 @@ buttons:
     emoji: ✅
     text: Tạo ticket
   create:
-    emoji: 🎫
-    text: Tạo ticket hỗ trợ
+    emoji: '1461341957640163505'
+    text: Mua hàng
   edit:
     emoji: ✏️
     text: Edit
