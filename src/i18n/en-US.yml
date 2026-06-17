@@ -26,3 +26,6 @@ buttons:
   transcript:
     emoji: 📄
     text: Transcript
+  unclaim:
+    emoji: ♻️
+    text: Release
